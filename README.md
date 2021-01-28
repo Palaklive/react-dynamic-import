@@ -1,5 +1,5 @@
 
-### This project is about introduction of dynamic import before the code splitting
+### This project is about introduction of dynamic import with the code splitting
 
 Suppose you have a page that renders different components depending on user input. At the moment, managed to solve the issue I was having and have shown my code below which shows how I solved it.  
 
